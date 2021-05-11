@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there 👋, 
+My name is Marina Suvorova. I am a Junior Software Engineer with a deep passion for Natural Languaguage Processing and Computational Linguistics. 
 
-<!--
-**marinasupernova/marinasupernova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my pet project addntravel.com using **Django**.
+- 🌱 I’m currently learning **Artificial Intelligence** with **Python**.
+- 👯 I’m looking to collaborate on open-source Python libraries.
+- 🤔 I’m looking for help with expanding my experience with Python. 
+- 💬 Ask me about #**girlpowerintech**.
+- 📫 How to reach me: https://github.com/marinasupernova/marinasupernova/issues
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I just wanted to set off for a year-long expedition to Antarctica but eventually I heard my call to become a **pythonista**. 
